@@ -133,6 +133,7 @@ text-transform: uppercase;
      padding: 0;
     }
     .li-headera{ 
+        position: relative; 
         display: list-item;
         font-family: "Roboto";
         font-style: normal;
@@ -140,10 +141,11 @@ text-transform: uppercase;
         font-size: 16px;
         line-height: 24px;
         letter-spacing: 0.02em;
-        color: var(--color-title-h2-h3-darkbg);
+        color:#404bbf;
         background-color: #FFFFFF;
         cursor: pointer;
         padding: 24px 0;
+        
         flex-direction: row;
         text-decoration: none;
         display: block;
