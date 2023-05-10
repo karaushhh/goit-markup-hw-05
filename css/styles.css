@@ -155,6 +155,9 @@ text-transform: uppercase;
     .li-headera:hover{
         color: #404bbf;
     }
+    .color{
+        color: #404bbf; 
+    }
     .li-headera{ 
         position: relative; 
         display: list-item;
