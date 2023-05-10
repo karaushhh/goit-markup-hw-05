@@ -155,9 +155,7 @@ text-transform: uppercase;
     .li-headera:hover{
         color: #404bbf;
     }
-    .color{
-        color: #404bbf; 
-    }
+    
     .li-headera{ 
         position: relative; 
         display: list-item;
@@ -274,7 +272,7 @@ margin: 0 auto;
 /* Auto layout */
 display: block;
 border: none;
-
+background-color: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 
 
 
