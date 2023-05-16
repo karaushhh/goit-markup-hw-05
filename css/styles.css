@@ -947,7 +947,7 @@ row-gap: 48px;
 
 }
 .portw:hover .div-anim-p,
-.portfw:focus .div-anim-p {
+.portw:focus .div-anim-p {
     transform: translateY(0%);
 }
 
