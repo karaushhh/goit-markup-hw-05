@@ -936,15 +936,12 @@ row-gap: 48px;
     display: block;
     transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1); 
 }
-.portw:hover,
-.portw:focus{
+.portw:hover, .div-anim-p,
+.portw:focus .div-anim-p{
     box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
     
 }
-.ap:hover,
-.ap:hover{
-    transform: translateY(0%);
-}
+
 .port-sectionlia {
     box-sizing: border-box;
     width: calc((100% - 48px) / 3); 
@@ -978,14 +975,7 @@ border: 1px solid #E7E9FC;
     transform: translateY(100%);
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.portw:hover,
-.portw:focus{
-    transform: translateY(0%);
-}
-.div-anim-p:hover,
-.div-anim-p:focus{
-    transform: translateY(0%);
-}
+
 .port-sectionlib {
     box-sizing: border-box;
 
